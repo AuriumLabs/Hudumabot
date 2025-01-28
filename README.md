@@ -1,6 +1,6 @@
 # HudumaBot Integration Toolkit 🤖
 
-![HudumaBot Logo](https://hudumabot.com/static/f7e1lN64SrCOFbv3nibrDg-removebg-preview (2).png) *Replace with actual logo URL*
+![HudumaBot Logo](https://hudumabot.com/static/f7e1lN64SrCOFbv3nibrDg-removebg-preview \(2\).png) *Replace with actual logo URL*
 
 Official integration resources for developers to embed HudumaBot's AI-powered customer engagement solutions into applications and websites.
 
